@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=400&text=welcome&desc=Yoon-hg%20GitHub%20Profile)
+
+
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ### Hi there 👋
 
 <!--
