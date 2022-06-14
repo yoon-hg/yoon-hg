@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&desc=Yoon-HG%20GitHub%20Profile&descAlign=70&DescAlignY=100)
 
+<img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
+
 <!--
 **yoon-hg/yoon-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
