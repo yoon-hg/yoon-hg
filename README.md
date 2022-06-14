@@ -4,6 +4,8 @@
 
 <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+
 <!--
 **yoon-hg/yoon-hg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
